@@ -5,7 +5,8 @@ The second function, Winstall, executes the installation of any discovered updat
 Type "WinUpdate" to retrieve pending updates.
 Type "Winstall" to install any or all of the retrieved updates.
 
-To add these fucntions to a Powershell profile:
+To add these functions to a Powershell profile:
+
 1. Open Powershell.
 2. From any working directory, type "notepad $Profile".
 3. In the notepad instance, paste the function script anywhere below existing text.
